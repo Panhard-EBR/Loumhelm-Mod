@@ -1,39 +1,39 @@
 [
 	{
-		"name": "Blank Slate",
-		"leaderName": "Harp Dubin",
-		"adjective": ["something"],
+		"name": "Elvin Empire",
+		"leaderName": "Switelin the 1st",
+		"adjective": ["Elvin"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "The Elvin Empire",
+		"startIntroPart2": "After years of the empire consuming itself, the Elvin have put their priorities straight, and will cleanse this world of those impure.",
 		
-		"declaringWar": "What?",
-		"attacked": "Funny!",
-		"defeated": "How?",
-		"introduction": "Huh...",
+		"declaringWar": "How charming...",
+		"attacked": "We shall return this to you ten fold!",
+		"defeated": "A tragedy had befallen world itself! Now the impure and evil shall rule these lands forever more...!",
+		"introduction": "Who are you, ones so pathetic that they don't deserve to grovel before us?",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "What is it?",
+		"neutralLetsHearIt": [" Speak now or else.","What do you say?","Do not waste my time"],
+		"neutralNo": ["As with all the impure, you are nothing worthy.","I deny your empty words.","You really think I agree?"],
+		"neutralYes": ["Fine.","You're lucky, I rarely accept proposals from lesser beings.","Such is... very well"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "What more do you want?",
+		"hateLetsHearIt": ["Speak, lesser one!","I will listen, but you shall bow before me first.","Go, prattle on."],
+		"hateNo": ["You would think I would say 'yes' to such a sorry creature?","I only listen to those greater than specks of dirt","Oh please, keep begging!"],
+		"hateYes": ["So what's next? Should we celebrate? HAHAHA! how sad.","You are spared for but a few moments","I expected more, so give me more!"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "We accept this treaty, but for true peace, we shall not accept. We WILL return...",
+		"tradeRequest": "So it seems the lesser ones have value after all.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniqueName": "Tides of Wrath"
+		"uniqueName": "Prejudice and Knowledge"
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Grand Sunlon","Sleictol","Sunlon","Tumberham","Stone Town","Horoland","Dulcter","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+		"cities": ["Grand Sunlon","Sleictol","Sunlon","Tumberham","Stone Town","Horoland","Dulcter","Whellerlin","Lubland",
+			"Flondereth","Hyphliyctorthrow","Dirtwater","Habwyth","Golter Town","Swiftwater","Ardorlin","Crutland","Queensville","Watherway",
+			"Flystol","Erwain Town","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
 ]
