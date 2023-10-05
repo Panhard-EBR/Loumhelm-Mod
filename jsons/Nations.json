@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Elvin Empire",
-		"leaderName": "Switelin the 1st",
+		"leaderName": "Switelin the 1st of the Elvin Empire",
 		"adjective": ["Elvin"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "The Elvin Empire",
-		"startIntroPart2": "After years of the empire consuming itself, the Elvin have put their priorities straight, and will cleanse this world of those impure.",
+		"startIntroPart2": "After years of the empire consuming itself in civil war, the Elvin have put their priorities straight, and will cleanse this world of those impure.",
 		
 		"declaringWar": "How charming...",
 		"attacked": "We shall return this to you ten fold!",
@@ -25,12 +25,12 @@
 		"hateYes": ["So what's next? Should we celebrate? HAHAHA! how sad.","You are spared for but a few moments","I expected more, so give me more!"],
 		
 		"afterPeace": "We accept this treaty, but for true peace, we shall not accept. We WILL return...",
-		"tradeRequest": "So it seems the lesser ones have value after all.",
+		"tradeRequest": "So it seems the lesser ones have value after all. Now give us what we want.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [163,158,103],
+		"innerColor": [206,201,145],
 		"uniqueName": "Genius and Prejudice"
-		"unique": "+1 Science for every 1 population",
+		"unique": "[+2 Science] from every [population], [+15% Gold], [+20% Strength] for [All units], [-25% Culture], [-30% production] [-50%] [Golden Age length]",
 		"cities": ["Grand Sunlon","Sleictol","Sunlon","Tumberham","Stone Town","Horoland","Dulcter","Whellerlin","Lubland",
 			"Flondereth","Hyphliyctorthrow","Dirtwater","Habwyth","Golter Town","Swiftwater","Ardorlin","Crutland","Queensville","Watherway",
 			"Flystol","Erwain Town","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
