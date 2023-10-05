@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Elvin Empire",
-		"leaderName": "Switelin the 1st of the Elvin Empire",
+		"leaderName": "Switelin the 1st of the",
 		"adjective": ["Elvin"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
@@ -34,7 +34,9 @@
 "
 [+20]% Strength <for [All] units>",
 
-"[+2 Science] [in all cities]"],
+"[+2 Science] [in all cities]"
+],
+
 
 		"cities": ["Grand Sunlon","Sleictol","Sunlon","Tumberham","Stone Town","Horoland","Dulcter","Whellerlin","Lubland",
 			"Flondereth","Hyphliyctorthrow","Dirtwater","Habwyth","Golter Town","Swiftwater","Ardorlin","Crutland","Queensville","Watherway",
