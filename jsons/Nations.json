@@ -30,7 +30,7 @@
 		"outerColor": [163,158,103],
 		"innerColor": [206,201,145],
 		"uniqueName": "Genius and Prejudice"
-		"unique": ["[+2 Science] from every [population], [+15% Gold], [+20% Strength] for [All units], [-25% Culture], [-30% production], [-50%] [Golden Age length]"],
+		"unique": ["[+2 Science] <for every> [1] [population], [+15% Gold], [+20% Strength] <for> [All] <units>, [-25% Culture], [-30% production], [-50%] [Golden Age length]"],
 		"cities": ["Grand Sunlon","Sleictol","Sunlon","Tumberham","Stone Town","Horoland","Dulcter","Whellerlin","Lubland",
 			"Flondereth","Hyphliyctorthrow","Dirtwater","Habwyth","Golter Town","Swiftwater","Ardorlin","Crutland","Queensville","Watherway",
 			"Flystol","Erwain Town","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
