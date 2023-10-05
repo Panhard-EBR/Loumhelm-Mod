@@ -30,9 +30,8 @@
 		"outerColor": [163,158,103],
 		"innerColor": [206,201,145],
 		"uniqueName": "Genius and Prejudice"
-		"unique": [
-"
-[+20]% Strength <for [All] units>",
+		"uniques": [
+"[+20]% Strength <for [All] units>",
 
 "[+2 Science] [in all cities]"
 ],
