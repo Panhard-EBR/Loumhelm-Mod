@@ -33,7 +33,15 @@
 		"uniques": [
 "[+20]% Strength <for [All] units>",
 
-"[+2 Science] [in all cities]"
+"[+2 Science] [in all cities]",
+
+"[+25]% Gold [in all cities]",
+
+"[-25]% Culture [in all cities]",
+
+"[-30]% Production [in all cities]",
+
+"[-50]% [Golden Age length]"
 ],
 
 
