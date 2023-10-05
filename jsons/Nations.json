@@ -7,7 +7,7 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "The Elvin Imperial State",
-		"startIntroPart2": "After years of civil war, one faction rose above the ruins of the Elvin Empire.One that has far less kind intentions than the last",
+		"startIntroPart2": "After years of civil war, one faction rose above the ruins of the Elvin Empire. One that has far less kind intentions than the last",
 		
 		"declaringWar": "How charming...",
 		"attacked": "We shall return this to you ten fold!",
@@ -15,14 +15,28 @@
 		"introduction": "Who are you, ones so pathetic that they don't deserve to grovel before us?",
 		
 		"neutralHello": "What is it?",
+
 		"neutralLetsHearIt": [" Speak now or else.","What do you say?","Do not waste my time"],
+
 		"neutralNo": ["As with all the impure, you are nothing worthy.","I deny your empty words.","You really think I agree?"],
+
 		"neutralYes": ["Fine.","You're lucky, I rarely accept proposals from lesser beings.","Such is... very well"],
 
+
 		"hateHello": "What more do you want?",
-		"hateLetsHearIt": ["Speak, lesser one!","I will listen, but you shall bow before me first.","Go, prattle on."],
-		"hateNo": ["You would think I would say 'yes' to such a sorry creature?","I only listen to those greater than specks of dirt","Oh please, keep begging!"],
-		"hateYes": ["So what's next? Should we celebrate? HAHAHA! how sad.","You are spared for but a few moments","I expected more, so give me more!"],
+
+		"hateLetsHearIt": ["Speak, lesser one!",
+"I will listen, but you shall bow before me first.",
+"Go, prattle on."],
+
+		"hateNo": ["You would think I would say 'yes' to such a sorry creature?",
+"I only listen to those greater than specks of dirt",
+"Oh please, keep begging!"],
+
+		"hateYes": ["So what's next? Should we celebrate? HAHAHA! how sad.",
+"You are spared for but a few moments",
+"I expected more, so give me more!"],
+
 		
 		"afterPeace": "We accept this treaty, but for true peace, we shall not accept. We WILL return...",
 		"tradeRequest": "So it seems the lesser ones have value after all. Now give us what we want.",
