@@ -16,7 +16,10 @@
 		
 		"neutralHello": "What is it?",
 
-		"neutralLetsHearIt": [" Speak now or else.","What do you say?","Do not waste my time"],
+
+		"neutralLetsHearIt": [" Speak now or else.",
+"What do you say?",
+"Do not waste my time"],
 
 		"neutralNo": ["As with all the impure, you are nothing worthy.","I deny your empty words.","Do you really think I agree?"],
 
