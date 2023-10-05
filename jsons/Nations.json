@@ -30,7 +30,11 @@
 		"outerColor": [163,158,103],
 		"innerColor": [206,201,145],
 		"uniqueName": "Genius and Prejudice"
-		"unique": ["'[+20]% Strength <for [All] units>,"],
+		"unique": [
+"
+[+20]% Strength <for [All] units>",
+
+"[+2 Science] [in all cities]"],
 
 		"cities": ["Grand Sunlon","Sleictol","Sunlon","Tumberham","Stone Town","Horoland","Dulcter","Whellerlin","Lubland",
 			"Flondereth","Hyphliyctorthrow","Dirtwater","Habwyth","Golter Town","Swiftwater","Ardorlin","Crutland","Queensville","Watherway",
