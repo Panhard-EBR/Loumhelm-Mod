@@ -1,13 +1,14 @@
 [
 	{
-		"name": "Elvin Empire",
+		"name": "Elvin Imperial State",
 		"leaderName": "Switelin the 1st of the",
 		"adjective": ["Elvin"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "The Elvin Empire",
-		"startIntroPart2": "After years of the empire consuming itself in civil war, the Elvin have put their priorities straight, and will cleanse this world of those impure.",
+		"startIntroPart1": "The Elvin Imperial State",
+		"startIntroPart2": "After years of civil war, one faction rose above the ruins of the Elvin Empire.
+One that has far less kind intentions than the last",
 		
 		"declaringWar": "How charming...",
 		"attacked": "We shall return this to you ten fold!",
