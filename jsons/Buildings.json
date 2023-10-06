@@ -21,7 +21,6 @@
 		"happiness": 2,
 		"culture": 2,
 		"uniques": ["New [Military] units start with [25] Experience [in this city]"],
-  "specialistSlots": {"Great General": 5},
 		"maintenance": 2,
 		"requiredTech": "Bronze Working"
 	}
