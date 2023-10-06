@@ -7,7 +7,7 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "The Elvin Imperial State: An Imitation of Glory",
-		"startIntroPart2": "After years of civil war, one faction rose above the ruins of the old Elvin Empire. One that has far less kind intentions than the last",
+		"startIntroPart2": "After years of civil war, one faction rose above the ruins of the old Elvin Empire. One that has far less kind intentions than the last.",
 		
 		"declaringWar": "How charming...",
 		"attacked": "We shall return this to you ten fold!",
@@ -17,9 +17,9 @@
 		"neutralHello": "What is it?",
 
 
-		"neutralLetsHearIt": [" Speak now or else.",
+		"neutralLetsHearIt": ["Speak now or else.",
 "What do you say?",
-"Do not waste my time"],
+"Do not waste my time."],
 
 		"neutralNo": ["As with all the impure, you are nothing worthy.",
 "I deny your empty words.",
@@ -28,7 +28,7 @@
 
 		"neutralYes": ["Fine.",
 "You're lucky, I rarely accept proposals from lesser beings.",
-"Such is... very well"],
+"Such is... very well..."],
 
 
 
@@ -39,7 +39,7 @@
 "Go, prattle on."],
 
 		"hateNo": ["You would think I would say 'yes' to such a sorry creature?",
-"I only listen to those greater than specks of dirt",
+"I only listen to those greater than specks of dirt.",
 "Oh please, keep begging!"],
 
 		"hateYes": ["So what's next? Should we celebrate? HAHAHA! how sad.",
@@ -80,7 +80,90 @@
 
 		"cities": ["Grand Sunlon","Sleictol","Sunlon","Tumberham","Stone Town","Horoland","Dulcter","Whellerlin","Lubland",
 			"Flondereth","Hyphliyctorthrow","Dirtwater","Habwyth","Golter Town","Swiftwater","Ardorlin","Crutland","Queensville","Watherway",
-			"Flystol","Erwain Town","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+			"Flystol","Erwain Town"]
+	},
+	{
+		"name": "Sentinal Union, 1st Core",
+		"leaderName": "Jehonas Larm",
+		"adjective": ["Senta"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "The Senta 1st Core: A Gang of Warmongers",
+		"startIntroPart2": "Senta as a state had one constant: War.
+
+Although many of its people who live today have mellowed and accepted peace, there are still those who seek to rekindle the spark of war.",
+		
+		"declaringWar": "YEEESSSS! YEEEEEEESSSSSSS! NOW THAT'S WHAT I'M TALKING ABOUT!",
+		"attacked": "Damn! Not bad! mhm!",
+		"defeated": "Our nations has been destroyed, but not our purpose! For we have passed it on to you. Now go, DESTROY!",
+		"introduction": "Hey fellas, say, who's up for a fight?",
+		
+		"neutralHello": "Hi!",
+
+
+		"neutralLetsHearIt": ["Whaddya wanna say?.",
+"I'm all ears, don't be shy.",
+"Is it about war? Please tell me it is!"],
+
+		"neutralNo": ["Nah, I'd rather not.",
+"sorry, man, it ain't right for us.",
+"That ain't good enough, don't you think?"],
+
+
+		"neutralYes": ["Aight.",
+"Today's your lucky day!.",
+"Oho! Looks like we got a negotiator here!"],
+
+
+
+		"hateHello": "What's on, you yellow belly?",
+
+		"hateLetsHearIt": ["There somethin' you got? Aight, let's make it quick.",
+"Yeah... sure...",
+"Okay fine, you win."],
+
+		"hateNo": ["You suck.",
+"Screw off!",
+"I'd like to see you say that to my face!"],
+
+		"hateYes": ["I hate ya'... but damn ain't that a good deal!",
+"That's nice... yeah...",
+"Okay, but we still ain't friends."],
+
+		
+		"afterPeace": "What??!?!!? I-It's over?????? NOOOOOOOOOOOOOO!!!!!!!!!!",
+		"tradeRequest": "Hey hey, listen, I want something from ya'...",
+
+		"outerColor": [163,158,103],
+		"innerColor": [206,201,145],
+		"uniqueName": "It's War Season!"
+		"uniques": [
+"[+20]% Strength <for [All] units> ",
+
+"[+3 Science] [in all cities]",
+
+"[+20]% [Gold] [in all cities]",
+
+"Gain a free [Library] [in all cities]",
+
+"Gain a free [University] [in capital]",
+
+"[Great Scientist] is earned [+50]% faster",
+
+"[-1 Happiness] [in all cities]",
+
+"[-15]% [Food] [in all cities]",
+
+"[-30]% [Culture] [in all cities]",
+
+"[-25]% [Production] [in all cities]",
+
+"[-50]% Golden Age length"
+],
+
+
+		"cities": ["Harrinstown SC","Cragville","New Sunlon","Crackwater","Sunner's Town","Tagburg","Sacklace Creek","Cone Town","New Dacigo",
+			"Chlige","Gunnerville","Orangewater", "Duke Town","New Golter","Waterwater","Helburg","Whileville","Queensplace","Town Water",
+			"Kingsville","Stoilburg"]
 	}
 ]
