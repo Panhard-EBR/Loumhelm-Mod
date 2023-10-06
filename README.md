@@ -14,6 +14,7 @@ Anyways, I plan to add:
 Each of these will have a great upside, but also a downside to balance things out.
 
 +E.G. The only faction so far having more unit strength, science and gold, but has attributes that weaken the expansion of cities and reduced happiness.
+
 I don't know if these negative attributes are actually taking effect, but if they aren't, I would gladly accept any help to fix this.
 
 
