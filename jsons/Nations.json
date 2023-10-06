@@ -54,11 +54,13 @@
 		"innerColor": [206,201,145],
 		"uniqueName": "Genius and Prejudice"
 		"uniques": [
-"[+20]% Strength <for [All] units>",
+"[+25]% Strength <for [All] units>",
 
-"[+3 Science] [in all cities]",
+"[+5 Science] [in all cities]",
 
-"[+20]% [Gold] [in all cities]",
+"[+50]% [Science] [in all cities]",
+
+"[+25]% [Gold] [in all cities]",
 
 "Gain a free [Library] [in all cities]",
 
@@ -72,7 +74,7 @@
 
 "[-30]% [Culture] [in all cities]",
 
-"[-25]% [Production] [in all cities]",
+"[-20]% [Production] [in all cities]",
 
 "[-50]% Golden Age length"
 ],
@@ -89,7 +91,7 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "The Senta 1st Core: A Gang of Warmongers",
-		"startIntroPart2": "Senta as a state had one constant: War.
+		"startIntroPart2": "Senta as a state had one constant: War
 
 Although many of its people who live today have mellowed and accepted peace, there are still those who seek to rekindle the spark of war.",
 		
@@ -106,8 +108,8 @@ Although many of its people who live today have mellowed and accepted peace, the
 "Is it about war? Please tell me it is!"],
 
 		"neutralNo": ["Nah, I'd rather not.",
-"sorry, man, it ain't right for us.",
-"That ain't good enough, don't you think?"],
+"sorry, man, it just ain't right.",
+"That ain't good enough,and you know that."],
 
 
 		"neutralYes": ["Aight.",
@@ -144,7 +146,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "[+100]% XP gained from combat",
 
-"[+50]% [Production] [in all cities]",
+"[+30]% [Production] [in all cities]",
 
 "[+2 Happiness] [in all cities]",
 
