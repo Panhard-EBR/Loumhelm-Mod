@@ -3,7 +3,6 @@
 		"name": "Imperial Mech",
 		"unitType": "Ranged",
 		"uniqueTo": "Elvin Imperial State",
-		"replaces": "None",
 		"movement": 2,
 		"strength": 200,
 		"rangedStrength": 50,
