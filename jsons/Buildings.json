@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "The Strength of One's Ego",
+		"replaces": "Colossus",
+		"uniqueTo": "Elvin Imperial State",
+		"cost": 200,
+		"happiness": 3,
+		"culture": 10,
+		"science": 7,
+		"maintenance": 2,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Walls",
+		"requiredTech": "Masonry"
 	},
 	{
 		"name": "Breeders",
