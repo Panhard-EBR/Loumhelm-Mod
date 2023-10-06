@@ -62,11 +62,11 @@
 
 "[-1 Happiness] [in all cities]",
 
-"[-30% Food] [in all cities]",
+"[-30]% [Food] [in all cities]",
 
-"[-30% Culture] [in all cities]",
+"[-30]% [Culture] [in all cities]",
 
-"[-30% Production] [in all cities]",
+"[-30]% [Production] [in all cities]",
 
 "[-50]% [Golden Age] length"
 ],
