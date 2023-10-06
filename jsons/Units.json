@@ -7,7 +7,7 @@
 		"strength": 200,
 		"rangedStrength": 50,
 		"range": 3,
-		"cost": 600,
+		"cost": 700,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
