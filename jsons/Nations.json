@@ -56,11 +56,11 @@
 		"uniques": [
 "[+20]% Strength <for [All] units>",
 
-"[+100]% XP gained from combat",
+"[+3 Science] [in all cities]",
 
 "[+20]% [Gold] [in all cities]",
 
-"Gain a free [Barracks] [in all cities]",
+"Gain a free [Library] [in all cities]",
 
 "Gain a free [University] [in capital]",
 
@@ -138,32 +138,36 @@ Although many of its people who live today have mellowed and accepted peace, the
 		"innerColor": [206,201,145],
 		"uniqueName": "It's War Season!"
 		"uniques": [
-"[+20]% Strength <for [All] units> ",
+"[+15]% Strength <for [All] units> ",
 
-"[+3 Science] [in all cities]",
+"No defensive terrain penalty"
 
-"[+20]% [Gold] [in all cities]",
+"[+100]% XP gained from combat",
 
-"Gain a free [Library] [in all cities]",
+"[+50]% [Production] [in all cities]",
 
-"Gain a free [University] [in capital]",
+"[+2 Happiness] [in all cities]",
 
-"[Great Scientist] is earned [+50]% faster",
+"Units in cities cost no Maintenance",
 
-"[-1 Happiness] [in all cities]",
+"Gain a free [Barracks] [in all cities]",
 
-"[-15]% [Food] [in all cities]",
+"[Great General] is earned [+80]% faster",
 
-"[-30]% [Culture] [in all cities]",
+"[-15]% growth [in all cities]",
 
-"[-25]% [Production] [in all cities]",
+"[+100]% Gold cost of upgrading"
 
-"[-50]% Golden Age length"
+"No defensive terrain bonus",
+
+"[-50]% strength for cities",
+
+"[+50%]% maintenance cost for buildings [in all cities]"
 ],
 
 
 		"cities": ["Harrinstown SC","Cragville","New Sunlon","Crackwater","Sunner's Town","Tagburg","Sacklace Creek","Cone Town","New Dacigo",
 			"Chlige","Gunnerville","Orangewater", "Duke Town","New Golter","Waterwater","Helburg","Whileville","Queensplace","Town Water",
-			"Kingsville","Stoilburg"]
+			"Kingsville","Soilburg"]
 	}
 ]
