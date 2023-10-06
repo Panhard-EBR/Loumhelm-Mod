@@ -1,4 +1,5 @@
 # Loumhelm: Empire's Imitator (Unfinished)
+*THIS MOD IS NOT IN A PROPER PLAYABLE STATE*
 
 
 This is my very first mod for this game.
