@@ -56,9 +56,11 @@
 		"uniques": [
 "[+20]% Strength <for [All] units>",
 
-"[+2 Science] [in all cities]",
+"[+5 Science] [in all cities]",
 
 "[+25]% [Gold] [in all cities]",
+
+"[Great Scientist] is earned [+50]% faster",
 
 "[-1 Happiness] [in all cities]",
 
@@ -66,7 +68,7 @@
 
 "[-25]% [Culture] [in all cities]",
 
-"[-25]% [Production] [in all cities]",
+"[-20]% [Production] [in all cities]",
 
 "[-50]% Golden Age length"
 ],
