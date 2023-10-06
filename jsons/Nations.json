@@ -134,8 +134,8 @@ Although many of its people who live today have mellowed and accepted peace, the
 		"afterPeace": "What??!?!!? I-It's over?????? NOOOOOOOOOOOOOO!!!!!!!!!!",
 		"tradeRequest": "Hey hey, listen, I want something from ya'...",
 
-		"outerColor": [163,158,103],
-		"innerColor": [206,201,145],
+		"outerColor": [6,77,0],
+		"innerColor": [10,125,0],
 		"uniqueName": "It's War Season!"
 		"uniques": [
 "[+15]% Strength <for [All] units> ",
@@ -162,7 +162,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "[-50]% strength for cities",
 
-"[+50%]% maintenance cost for buildings [in all cities]"
+"[+50]% maintenance cost for buildings [in all cities]"
 ],
 
 
