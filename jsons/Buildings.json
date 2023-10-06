@@ -20,7 +20,7 @@
 		"hurryCostModifier": 160,
 		"happiness": 2,
 		"culture": 2,
-		"uniques": ["New [Military] units start with [25] Experience", "[+5] Great General points"],
+		"uniques": ["New [Military] units start with [25] Experience"],
   "specialistSlots": {"General": 5},
 		"maintenance": 2,
 		"requiredTech": "Bronze Working"
