@@ -53,7 +53,7 @@
                     "[-35]% Strength"
                 ],
                 "requires": ["Centralized Production"],
-                "row": 3,
+                "row": 2,
                 "column": 3
             },
             {
