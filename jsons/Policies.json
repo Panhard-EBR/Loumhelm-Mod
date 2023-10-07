@@ -23,8 +23,8 @@
                     "[+2 Faith] per [2] population [in all cities]"
                 ],
                 "requires": ["Self-righteousness"]
-                "row": 1,
-                "column": 1
+                "row": 2,
+                "column": 2
             },
             {
                 "name": "Centralized Production",
@@ -55,7 +55,7 @@
                 ],
                 "requires": ["Centralized Production"],
                 "row": 2,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Absolute Power",
