@@ -29,7 +29,7 @@
                 "name": "Centralized Production",
                 "uniques": [
                     "[+1 Production] [in all cities connected to capital]",
-                    "[+5] Gold [in capital]"
+                    "[+5 Gold] [in capital]"
                 ],
                 "row": 1,
                 "column": 5
