@@ -59,7 +59,7 @@
             {
                 "name": "Absolute Power",
                 "uniques": [
-                    "[+25]% Production [in all cities]",
+                    "[+25]% [Production] [in all cities]",
                     "[-1 Happiness] [in all cities]"
                 ],
                 "requires": ["Propaganda", "Centralized Production"],
