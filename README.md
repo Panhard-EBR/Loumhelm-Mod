@@ -17,5 +17,7 @@ Each of them will have a great upside, but also a downside to balance things out
 
 There is one thing I need to make clear:      I'm not an expert at this game, if a faction is too weak or strong, I will tweak them based on my current knowledge, but I would also like suggestions from anyone more knowledgeable.
 
+I also plan to make new policies that are either their own thing or conform with specific factions.
+
 +As with any other mod, each faction will have exclusive units and buildings.
 That's really all I have to say for now.
