@@ -13,7 +13,7 @@
             "[+100]% City-State Influence degredation",
             "Free Social Policy",
             "Provides the cheapest [Production] building in your first [3] cities for free",
-            "[+10]% Strength <for [all] units>"
+            "[+10]% Strength"
         ],
         "policies": [
             {
@@ -50,7 +50,7 @@
                 "uniques": [
                     "[+50]% Production when constructing [Military] units [in all cities]",
                     "[-80]% Gold cost of upgrading <for [Military] units>",
-                    "[-35]% Strength <for [all] units>"
+                    "[-35]% Strength"
                 ],
                 "requires": ["Centralized Production"],
                 "row": 2,
@@ -59,11 +59,11 @@
             {
                 "name": "Absolute Power",
                 "uniques": [
-                    "[+25]% [Production] [in all cities]",
+                    "[+15]% [Production] [in all cities]",
                     "[-1 Happiness] [in all cities]"
                 ],
                 "requires": ["Propaganda", "Centralized Production"],
-                "row": 2,
+                "row": 3,
                 "column": 3
             },
             {
