@@ -128,7 +128,7 @@
                     "[+2] movement <for [all] units> during a Golden Age",
                     "[+10]% Strength"
                 ],
-                "requires": ["United by Blood", "In a World of Purity"],
+                "requires": ["United by Blood", "A World of Purity"],
                 "row": 3
                 "column": 5
             },
@@ -152,7 +152,7 @@
                 "column": 1
             },
             {
-                "name": ["In a World of Purity"],
+                "name": ["A World of Purity"],
                 "uniques": [
                     "[+20]% Faith",
                     "[+1 Happiness] for every city",
