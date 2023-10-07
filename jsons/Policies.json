@@ -42,7 +42,7 @@
                     "[+25]% Strength for cities <with a garrison> <when defending>"
                 ],
                 "requires": ["Propaganda"],
-                "row": 2,
+                "row": 3,
                 "column": 1
             },
             {
@@ -63,7 +63,7 @@
                     "[-1 Happiness] [in all cities]"
                 ],
                 "requires": ["Propaganda", "Centralized Production"],
-                "row": 2,
+                "row": 3,
                 "column": 5
             },
             {
