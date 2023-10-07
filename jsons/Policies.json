@@ -70,8 +70,8 @@
             {
                 "name": "Self-righteousness",
                 "uniques": [
-                    "Earn [5]% of killed Military unit's Cost as [Faith]",
-                    "Earn [10]% of killed Military unit's Cost as [Culture]"
+                    "Earn [5]% of killed Military unit's [Cost] as [Faith]",
+                    "Earn [10]% of killed Military unit's [Cost] as [Culture]"
                 ],
                 "row": 1,
                 "column": 1
@@ -79,7 +79,7 @@
             {
                 "name": "Warmonger Complete",
                 "uniques": [
-                    "[+2 Culture] from every unit",
+                    "[+2 Culture] from [all] units"
                     "All newly-trained [relevant] units [in all cities] receive the [March] promotion"]
             }
         ]
@@ -98,15 +98,15 @@
             "Gifts of Gold to City-States generate [-25]% more Influence",
             "Free Technology",
             "Provides the cheapest [Food] building in your first [5] cities for free",
-            "[+15]% Science"
+            "[+15]% Science [in all cities]"
         ],
         "policies": [
             {
                 "name": "War In Peace",
                 "uniques": [
-                    "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns",
-                    "[+50]% City-State Influence degredation",
-                    "Resting point for Influence with City-States increased by [-20]"
+                    "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.",
+                    "[+50]% City-State Influence degradation",
+                    "Resting point for Influence with City-States is increased by [-20]"
                 ],
                 "row": 1
                 "column": 3
@@ -125,7 +125,7 @@
                 "name": "United by Hate",
                 "uniques": [
                     "Empire enters a [20]-turn Golden Age",
-                    "[+2] movement <for [all] units> during a Golden Age",
+                    "[+2] movement <for [all] units> <during a Golden Age>",
                     "[+10]% Strength"
                 ],
                 "requires": ["United by Blood", "A World of Purity"],
@@ -135,7 +135,7 @@
             {
                 "name": "Enslave the Wicked",
                 "uniques": [
-                    "When conquering and encampment, earn [+50] Gold and recruit a Barbarian unit with a [100]% chance",
+                    "When conquering and encampment, earn [+50] Gold and recruit a Barbarian unit <with a [100]% chance>",
                 ],
                 "row": 2
                 "column": 3
@@ -154,9 +154,8 @@
             {
                 "name": "A World of Purity",
                 "uniques": [
-                    "[+20]% Faith",
-                    "[+1 Happiness] for every city",
-                    "Resting point for Influence with City-States increased by [-20]"
+                    "[+20]% Faith [in all cities]",
+                    "[+1 Happiness] [in all cities]"
                 ],
                 "requires": ["No Nature by Nature"],
                 "row": 3
