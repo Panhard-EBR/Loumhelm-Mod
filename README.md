@@ -10,13 +10,12 @@ And now here we are.
 
 Anyways, I plan to add:
 
-+5-7 nations\factions
-Each of these will have a great upside, but also a downside to balance things out.
+about 5-7 nations\factions. (subject to change)
+Each of them will have a great upside, but also a downside to balance things out.
 
-+E.G. The only faction so far having more unit strength, science and gold, but has attributes that weaken the expansion of cities and reduced happiness.
++E.G. The Elvin Imperial State having more unit strength, science production and gold, but has attributes that weaken the expansion And growth of cities and reduced happiness for every city.
 
-I don't know if these negative attributes are actually taking effect, but if they aren't, I would gladly accept any help to fix this.
-
+There is one thing I need to make clear:      I'm not an expert at this game, if a faction is too weak or strong, I will tweak them based on my current knowledge, but I would also like suggestions from anyone more knowledgeable.
 
 +As with any other mod, each faction will have exclusive units and buildings.
 That's really all I have to say for now.
