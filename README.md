@@ -13,7 +13,7 @@ Anyways, I plan to add:
 about 8+ nations\factions. (subject to change)
 Each of them will have a great upside, but also a downside to balance things out.
 
-+E.G. The Elvin Imperial State having more unit strength, science production and gold, but has attributes that weaken the expansion And growth of cities and reduced happiness for every city.
++E.G. The Elvin Imperial State having more unit strength, science production and gold, but has attributes that weaken the expansion and growth of cities and reduced happiness for every city.
 
 Or the 1st Core having more production, faster experience gain, ignore terrain defense and good base happiness, but they grow slightly slower, have no terrain defense and most things are a little more expensive.
 
