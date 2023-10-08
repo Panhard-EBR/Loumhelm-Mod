@@ -13,9 +13,9 @@
             "[+100]% City-State Influence degradation",
             "Free Social Policy",
             "Provides the cheapest [Production] building in your first [3] cities for free",
-            "[+10]% Strength"
-        ],
+            "[+10]% Strength",
             "Only available <before adopting [Imperialism and Progress]>"
+        ],
         "policies": [
             {
                 "name": "Propaganda",
@@ -98,9 +98,9 @@
             "Gifts of Gold to City-States generate [-25]% more Influence",
             "Free Technology",
             "Provides the cheapest [Food] building in your first [5] cities for free",
-            "[+15]% Science [in capital]"
+            "[+15]% Science [in capital]",
+            "Only available <before adopting [Warmonger]>"
         ],
-            "Only available <before adopting [Warmonger]>",
         "policies": [
             {
                 "name": "War In Peace",
