@@ -97,7 +97,7 @@
             "Gifts of Gold to City-States generate [-25]% more Influence",
             "Free Technology",
             "Provides the cheapest [Food] building in your first [5] cities for free",
-            "[+15]% Science [in all cities]"
+            "[+15]% Science [in capital]"
         ],
         "policies": [
             {
@@ -123,8 +123,8 @@
             {
                 "name": "United by Hate",
                 "uniques": [
-                    "Empire enters a [20]-turn Golden Age",
-                    "[+2] movement <for [all] units> <during a Golden Age>",
+                    "Empire enters a [30]-turn Golden Age",
+                    "[+2] movement <for [All] units> <during a Golden Age>",
                     "[+10]% Strength"
                 ],
                 "requires": ["United by Blood", "A World of Purity"],
@@ -134,16 +134,15 @@
             {
                 "name": "Enslave the Wicked",
                 "uniques": [
-                    "When conquering and encampment, earn [+50] Gold and recruit a [Barbarian] unit <with a [100]% chance>",
+                    "When conquering an encampment, earn [50] Gold and recruit a Barbarian unit <with [100]% chance>",
                 ],
-                "row": 2
-                "column": 3
+                "row": 3
+                "column": 1
             },
             {
                 "name": "No Nature by Nature",
                 "uniques": [
                     "[+1 Production] from [All] tiles without [Forest] [in all cities]",
-                    "[+1 Production] from [All] tiles without [Jungle] [in all cities]",
                     "[+1 Science] from [All] tiles without [Forest] [in all cities]",
                     "[+1 Science] from [All] tiles without [Jungle] [in all cities]"
                 ],
@@ -157,7 +156,7 @@
                     "[+1 Happiness] [in all cities]"
                 ],
                 "requires": ["No Nature by Nature"],
-                "row": 3
+                "row": 2
                 "column": 3
             },
             {
