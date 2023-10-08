@@ -10,14 +10,16 @@ And now here we are.
 
 Anyways, I plan to add:
 
-about 5-7 nations\factions. (subject to change)
+about 8+ nations\factions. (subject to change)
 Each of them will have a great upside, but also a downside to balance things out.
 
 +E.G. The Elvin Imperial State having more unit strength, science production and gold, but has attributes that weaken the expansion And growth of cities and reduced happiness for every city.
 
-There is one thing I need to make clear:      I'm not an expert at this game, if a faction is too weak or strong, I will tweak them based on my current knowledge, but I would also like suggestions from anyone more knowledgeable.
+Or the 1st Core having more production, faster experience gain, ignore terrain defense and good base happiness, but they grow slightly slower, have no terrain defense and most things are a little more expensive.
 
-I also plan to make new policies that are either their own thing or conform with specific factions.
+*There is one thing I need to make clear*:      I'm not an expert at this game, if a faction is too weak or strong, I will tweak them based on my current knowledge, but I would also like suggestions from anyone more knowledgeable.
+
+I also plan to make new policies that are for specific nations.
 
 +As with any other mod, each faction will have exclusive units and buildings.
 That's really all I have to say for now.
