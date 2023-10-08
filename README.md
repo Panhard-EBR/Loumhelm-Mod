@@ -21,3 +21,7 @@ I also plan to make new policies that are either their own thing or conform with
 
 +As with any other mod, each faction will have exclusive units and buildings.
 That's really all I have to say for now.
+
+
+Notes: This mod hasn't been properly balanced yet and there are quite a few things that don't work.
+Also images are going to be added when a sufficient amount of content is added, desirably, when it's mostly finished.
