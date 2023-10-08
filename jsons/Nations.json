@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Elvin Imperial State",
-		"leaderName": "Switelin the 1st of the",
+		"leaderName": "Switelin the 1st",
 		"adjective": ["Elvin"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
@@ -9,8 +9,8 @@
 		"startIntroPart1": "The Elvin Imperial State: An Imitation of Glory",
 		"startIntroPart2": "After years of civil war, one faction rose above the ruins of the old Elvin Empire. One that has far less kind intentions than the last.",
 		
-		"declaringWar": "How charming...",
-		"attacked": "We shall return this to you ten fold!",
+		"declaringWar": "You simply have no place for this world. Now lay down and die for the good of all of us.",
+		"attacked": "How charming...!",
 		"defeated": "A tragedy had befallen world itself! Now the impure and evil shall rule these lands forever more...!",
 		"introduction": "Who are you, ones so pathetic that they don't deserve to grovel before us?",
 		
@@ -23,7 +23,7 @@
 
 		"neutralNo": ["As with all the impure, you are nothing worthy.",
 "I deny your empty words.",
-"Do you really think I agree?"],
+"Do you seriously think I would agree?"],
 
 
 		"neutralYes": ["Fine.",
@@ -58,7 +58,7 @@
 
 "[+5 Science] [in all cities]",
 
-"[+35]% [Science] [in all cities]",
+"[+30]% [Science] [in all cities]",
 
 "[+20]% [Gold] [in all cities]",
 
@@ -95,8 +95,8 @@
 
 Although many of its people who live today have mellowed and accepted peace, there are still those who seek to rekindle the spark of war.",
 		
-		"declaringWar": "YEEESSSS! YEEEEEEESSSSSSS! NOW THAT'S WHAT I'M TALKING ABOUT!",
-		"attacked": "Damn! Not bad! mhm!",
+		"declaringWar": "WE CAN'T WAIT NO MORE, WEGOTTAGOWEGOTTAGO. zIT'S WAR SEASON, BOYS!*",
+		"attacked": "YEEESSSS! YEEEEEEESSSSSSS! NOW THAT'S WHAT I'M TALKING ABOUT!",
 		"defeated": "Our nations has been destroyed, but not our purpose! For we have passed it on to you. Now go, DESTROY!",
 		"introduction": "Hey fellas, say, who's up for a fight?",
 		
@@ -105,7 +105,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 		"neutralLetsHearIt": ["Whaddya wanna say?.",
 "I'm all ears, don't be shy.",
-"Is it about war? Please tell me it is!"],
+"Is it about war? Please do tell!"],
 
 		"neutralNo": ["Nah, I'd rather not.",
 "sorry, man, it just ain't right.",
