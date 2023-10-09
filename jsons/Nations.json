@@ -97,9 +97,9 @@
 
 Although many of its people who live today have mellowed and accepted peace, there are still those who seek to rekindle the spark of war.",
 		
-		"declaringWar": "WE CAN'T WAIT NO MORE, WEGOTTAGOWEGOTTAGO. zIT'S WAR SEASON, BOYS!*",
+		"declaringWar": "WE CAN'T WAIT NO MORE, WEGOTTAGOWEGOTTAGO. *IT'S WAR SEASON, BOYS!*",
 		"attacked": "YEEESSSS! YEEEEEEESSSSSSS! NOW THAT'S WHAT I'M TALKING ABOUT!",
-		"defeated": "Our nations has been destroyed, but not our purpose! For we have passed it on to you. Now go, DESTROY!",
+		"defeated": "Our land has been destroyed, but not our purpose! For we have passed it on to you. Now go, DESTROY!",
 		"introduction": "Hey fellas, say, who's up for a fight?",
 		
 		"neutralHello": "Hi!",
@@ -164,13 +164,13 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "No defensive terrain bonus",
 
-"[-50]% Strength for cities",
+"[-40]% Strength for cities",
 
-"[+50]% maintenance cost for buildings [in all cities]"
+"[+100]% maintenance cost for buildings [in all cities]"
 ],
 
 
-		"cities": ["Harrinstown SC","Cragville","New Sunlon","Crackwater","Sunner's Town","Tagburg","Sacklace Creek","Cone Town","New Dacigo",
+		"cities": ["Harrinstown SC","Cragsville","New Sunlon","Crackwater","Sunner's Town","Tagburg","Sacklace Creek","Cone Town","New Dacigo",
 			"Chlige","Gunnerville","Orangewater", "Duke Town","New Golter","Waterwater","Helburg","Whileville","Queensplace","Town Water",
 			"Kingsville","Soilburg"]
 	}
