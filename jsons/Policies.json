@@ -193,7 +193,7 @@
                 "uniques": [
                     "Double the quantity of [Gold] produced"
                     "[+15]% [Culture] [in capital]",
-                    "[+1 Food] from [Desert] tiles [in all cities]",
+                    "[+1 Food] from [desert] tiles [in all cities]",
                 ],
                 "row": 1
                 "column": 1
