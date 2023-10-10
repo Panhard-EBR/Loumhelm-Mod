@@ -183,7 +183,7 @@
         },
         "uniques": [
             "Provides the cheapest [Culture] building in your first [5] cities for free",
-            "[+2] movement <for [all] units> <in [desert] tiles>",
+            "[+2] movement <for [all] units> <in [Desert] tiles>",
             "Only available <before adopting [Warmonger]>",
             "Only available <before adopting [Imperialism and Progress]>"
         ],
@@ -193,7 +193,7 @@
                 "uniques": [
                     "Double the quantity of [Gold] produced"
                     "[+15]% [Culture] [in capital]",
-                    "[+1 Food] from [desert] tiles [in all cities]",
+                    "[+1 Food] from [Desert] tiles [in all cities]",
                 ],
                 "row": 1
                 "column": 1
