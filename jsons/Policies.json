@@ -157,7 +157,7 @@
             {
                 "name": "A World of Purity",
                 "uniques": [
-                    "[+20]% Faith [in all cities]",
+                    "[+20]% [Faith] [in all cities]",
                     "[+1 Happiness] [in all cities]"
                 ],
                 "requires": ["No Nature by Nature"],
@@ -191,7 +191,7 @@
             {
                 "name": "Haven of the Desert",
                 "uniques": [
-                    "Double the quantity of [Gold] produced"
+                    "Double quantity of [Gold] produced"
                     "[+15]% [Culture] [in capital]",
                     "[+1 Food] from [Desert] tiles [in all cities]",
                 ],
@@ -245,7 +245,7 @@
                 "name": "Defensive Maneuvers",
                 "uniques": [
                     "All newly-trained [relevant] units [in all cities] receive the [Drill I] promotion",
-                    "All newly-trained [relevant] units [in all cities] receive the [Drill II] Promotion"
+                    "All newly-trained [relevant] units [in all cities] receive the [Drill II] promotion"
                 ],
                 "requires": ["Self-sufficient Army"],
                 "row": 3
