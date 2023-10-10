@@ -4,7 +4,7 @@
 		"leaderName": "Switelin the 1st",
 		"adjective": ["Elvin"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "The Elvin Imperial State: An Imitation of Glory",
 		"startIntroPart2": "After years of civil war, one faction rose above the ruins of the old Elvin Empire. One that has far less kind intentions than the last.",
@@ -105,17 +105,17 @@ Although many of its people who live today have mellowed and accepted peace, the
 		"neutralHello": "Hi!",
 
 
-		"neutralLetsHearIt": ["Whaddya wanna say?.",
+		"neutralLetsHearIt": ["Whaddya wanna say?",
 "I'm all ears, don't be shy.",
 "Is it about war? Please do tell!"],
 
 		"neutralNo": ["Nah, I'd rather not.",
-"sorry, man, it just ain't right.",
+"Sorry, man, it just ain't right.",
 "That ain't good enough,and you know that."],
 
 
 		"neutralYes": ["Aight.",
-"Today's your lucky day!.",
+"Today's your lucky day!",
 "Oho! Looks like we got a negotiator here!"],
 
 
@@ -142,7 +142,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 		"innerColor": [10,125,0],
 		"uniqueName": "It's War Season!"
 		"uniques": [
-"[+15]% Strength <for [All] units> ",
+"[+15]% Strength <for [All] units>",
 
 "No defensive terrain penalty"
 
@@ -171,6 +171,89 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 
 		"cities": ["Harrinstown SC","Cragsville","New Sunlon","Crackwater","Sunner's Town","Tagburg","Sacklace Creek","Cone Town","New Dacigo",
+			"Chlige","Gunnerville","Orangewater", "Duke Town","New Golter","Waterwater","Helburg","Whileville","Queensplace","Town Water",
+			"Kingsville","Soilburg"]
+	},
+	{
+		"name": "Jirbalimah Emirate",
+		"leaderName": "Lomleol Daphet the 3rd",
+		"adjective": ["Jirimite"],
+		"startBias": ["Desert", "Avoid [Grassland]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Jirbalimah Emirate: A Breeze in a Windless Desert",
+		"startIntroPart2": "Over the years, the Jirbalimah Emirate had taken the brunt of Elvin imperialism, despite them being the same species, their different toned skin and radically different culture was enough to declare them as 'impure', with new found freedom and a longing sense of hate, they will enact revenge against their oppressors.",
+		
+		"declaringWar": "We are not as malevolent as our Imperial counterparts, we shall give you mercy upon defeat!",
+		"attacked": "You... you *DARE* declare *WAR* on *I*? A *SON* of the *Great Prophet's* bloodline!?",
+		"defeated": "My brothers... my sisters... our children... I have failed you all...",
+		"introduction": "Greetings, I am Lomleol, a member of the Great Prophet's bloodline, say, would you care for a cup of gold?",
+		
+		"neutralHello": "Hello, we meet again",
+
+
+		"neutralLetsHearIt": ["Do not fret with your words, speak what your heart tells you.",
+"You desire an audience with me?",
+"My friend, you can talk to me any time of the day!"],
+
+		"neutralNo": ["My apologies, I refuse.",
+"It is simply not to my standards, no?",
+"What you have is not what I currently desire ."],
+
+
+		"neutralYes": ["Yes, this is good.",
+"This is simply a sublime gift!",
+"I shall accept this."],
+
+
+
+		"hateHello": "What now? You are wasting my time.",
+
+		"hateLetsHearIt": ["This better be worthwhile .",
+"You stand at bladepoint.",
+"Sure, just watch your back."],
+
+		"hateNo": ["I never should have said bothered.",
+"Leave!",
+"I would kill you if it wouldn't cause a war."],
+
+		"hateYes": ["By the Prophet's grace, why must this lowlife seduce my desires?",
+"You have what you want. Don't come back here again.",
+"Good, now get out of my sight."],
+
+		
+		"afterPeace": "My heart is burdened for our people's suffering, may this peace bring healing and prosperity to the both of us.",
+		"tradeRequest": "What an honor for you, I want something that you have.",
+
+		"outerColor": [6,77,0],
+		"innerColor": [206,201,145],
+		"uniqueName": "The Winds of Prosperity"
+		"uniques": [
+"[+1 Gold, +1 Food] from [Desert] tiles [in all cities]",
+
+"Gifts of Gold to City-States generate [+25]% more Influence",
+
+"[+50]% [Gold] [in all cities]",
+
+"[+25]% [Culture] [in all cities]",
+
+"[+30]% [Faith] [in all cities]",
+
+"Gain a free [Market] [in all cities]",
+
+"Adopt [Winds of Destruction]",
+
+"[-20]% [Food] [in all cities]",
+
+"[+200]% Gold cost of upgrading",
+
+"[-20]% Strength <for [all] units>",
+
+"[+50]% maintenance cost for buildings [in all cities]"
+]
+
+
+		"cities": ["Histazzel","Destazopoli","New Sunlon","Crackwater","Sunner's Town","Tagburg","Sacklace Creek","Cone Town","New Dacigo",
 			"Chlige","Gunnerville","Orangewater", "Duke Town","New Golter","Waterwater","Helburg","Whileville","Queensplace","Town Water",
 			"Kingsville","Soilburg"]
 	}
