@@ -147,7 +147,7 @@
             {
                 "name": "No Nature by Nature",
                 "uniques": [
-                    "[+1 Production] from [All] tiles without [{Forest}, {Jungle}] [in all cities]",
+                    "[+1 Production] from [All] tiles without [Forest], [Jungle] [in all cities]",
                     "[+1 Science] from [All] tiles without [Forest] [in all cities]",
                     "[+1 Science] from [All] tiles without [Jungle] [in all cities]"
                 ],
