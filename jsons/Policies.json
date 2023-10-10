@@ -220,7 +220,8 @@
             {
                 "name": "Self-sufficient Army",
                 "uniques": [
-                    "[All] units cost no maintenance"
+                    "[+1] Movement",
+                    "[+1] Sight"
 //this was meant to have extra sight and movement///
                 ],
                 "requires": ["Rapid Production"]
