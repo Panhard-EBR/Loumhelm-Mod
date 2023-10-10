@@ -221,8 +221,8 @@
                 "name": "Self-sufficient Army",
                 "uniques": [
                     "[All] units cost no maintenance",
-                    "[+1] Movement",
-                    "[+1] Sight"
+                    "[+1 Movement]",
+                    "[+1 Sight]"
                 ],
                 "requires": ["Rapid Production"]
                 "row": 2
