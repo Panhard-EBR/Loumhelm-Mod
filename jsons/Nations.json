@@ -233,7 +233,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "Gifts of Gold to City-States generate [+25]% more Influence",
 
-"[+50]% [Gold] [in all cities]",
+"[+40]% [Gold] [in all cities]",
 
 "[+25]% [Culture] [in all cities]",
 
@@ -243,18 +243,18 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "Adopt [Winds of Destruction]",
 
-"[-20]% [Food] [in all cities]",
+"[-25]% [Food] [in all cities]",
 
 "[+200]% Gold cost of upgrading",
 
-"[-20]% Strength <for [all] units>",
+"[-25]% Strength <for [all] units>",
 
 "[+50]% maintenance cost for buildings [in all cities]"
 ]
 
 
-		"cities": ["Histazzel","Destazopoli","New Sunlon","Crackwater","Sunner's Town","Tagburg","Sacklace Creek","Cone Town","New Dacigo",
-			"Chlige","Gunnerville","Orangewater", "Duke Town","New Golter","Waterwater","Helburg","Whileville","Queensplace","Town Water",
-			"Kingsville","Soilburg"]
+		"cities": ["Histazzel","Destazopoli","Arlmoni","Hyloct","Mezzazzan","Fersa","Taars","Benadopoli","Agatil",
+			"Yozul","Rhiydahk","Dolmus", "Gasacnosa","Midar","Sharshesk","Orniz","Sultor","Fiozzy","Girhano",
+			"Zohyin","Yitman"]
 	}
 ]
