@@ -220,6 +220,7 @@
             {
                 "name": "Self-sufficient Army",
                 "uniques": [
+                    "[-100]% maintenance costs <for [all] units>",
                     "[+1] Movement",
                     "[+1] Sight"
 //this was meant to have extra sight and movement///
@@ -232,10 +233,10 @@
                 "name": "Gifts from our Lord",
                 "uniques": [
                     "[-50]% City-State Influence degradation",
-                    "Resting point for Influence with City-States is increased by [+25]"
-                    "City-State territory always counts as friendly territory"
-                    "Military Units gifted from City-States start with [30] XP"
-                    "Influence of all other civilizations with all city-states degrades [+15]% faster"
+                    "Resting point for Influence with City-States is increased by [+25]",
+                    "City-State territory always counts as friendly territory",
+                    "Military Units gifted from City-States start with [30] XP",
+                    "Influence of all other civilizations with all city-states degrades [+20]% faster"
                 ],
                 "requires": ["Refitted Markets"]
                 "row": 3
@@ -244,8 +245,8 @@
             {
                 "name": "Defensive Maneuvers",
                 "uniques": [
-                    "All newly-trained [relevant] units [in all cities] receive the [Drill I] promotion",
-                    "All newly-trained [relevant] units [in all cities] receive the [Drill II] promotion"
+                    "All newly-trained [relevant] units [in all cities] receive the [Cover I] promotion",
+                    "All newly-trained [relevant] units [in all cities] receive the [Cover II] promotion"
                 ],
                 "requires": ["Self-sufficient Army"],
                 "row": 3
