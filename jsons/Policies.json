@@ -79,7 +79,7 @@
                 "column": 1
             },
             {
-                "name": "Warmonger Complete",
+                "name": "A Thousand Week March!",
                 "uniques": [
                     "All newly-trained [relevant] units [in all cities] receive the [March] promotion"]
             }
@@ -166,7 +166,7 @@
                 "column": 3
             },
             {
-                "name": "Imperialism and Progress",
+                "name": "A New Purpose",
                 "uniques": [
                     "All newly-trained [relevant] units [in all cities] receive the [Morale] promotion"]
             }
@@ -184,7 +184,7 @@
         },
         "uniques": [
             "Provides the cheapest [Culture] building in your first [5] cities for free",
-            "[+2 Movement] <for [all] units> <in [Desert] tiles>",
+            "[+1 Movement] <for [all] units> <in [Desert] tiles>",
             "Only available <before adopting [Warmonger]>",
             "Only available <before adopting [Imperialism and Progress]>"
         ],
@@ -222,8 +222,8 @@
                 "name": "Self-sufficient Army",
                 "uniques": [
                     "[-100]% maintenance costs <for [all] units>",
-                    "[+1] Movement",
-                    "[+1] Sight"
+                    "[+1 Movement] <for [all] units> <in [All] tiles>",
+                    "[+1 Sight] <for [all] units> <in [All] tiles>"
 //this was meant to have extra sight and movement///
                 ],
                 "requires": ["Rapid Production"]
@@ -254,7 +254,7 @@
                 "column": 5
             },
             {
-                "name": "Winds of the Desert Complete",
+                "name": "Swift Winds",
                 "uniques": [
                     "[-100]% maintenance on road & railroads",
                     "Improves movement speed on roads"
