@@ -159,7 +159,7 @@
                 "name": "The Right Path",
                 "uniques": [
                     "[+20]% [Faith] [in all cities]",
-                    "[+1 Food] from [All] tiles [in all cities]",
+                    "[+1 Food] from [Grassland] tiles [in all cities]",
                     "[+1 Happiness] [in all cities]"
                 ],
                 "requires": ["No Nature by Nature"],
@@ -167,7 +167,7 @@
                 "column": 3
             },
             {
-                "name": "A New Purpose",
+                "name": "Imperialism and Progress Complete",
                 "uniques": [
                     "All newly-trained [relevant] units [in all cities] receive the [Morale] promotion"]
             }
@@ -255,7 +255,7 @@
                 "column": 5
             },
             {
-                "name": "Swift Winds",
+                "name": "Winds of the Desert Complete",
                 "uniques": [
                     "[-100]% maintenance on road & railroads",
                     "Improves movement speed on roads"
