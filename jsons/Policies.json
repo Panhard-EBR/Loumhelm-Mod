@@ -131,7 +131,7 @@
                     "[+2 Movement] <for [All] units> <during a Golden Age>",
                     "[+10]% Strength"
                 ],
-                "requires": ["United by Blood", "A World of Purity"],
+                "requires": ["United by Blood", "The Right Path"],
                 "row": 3
                 "column": 5
             },
@@ -214,7 +214,7 @@
                     "[+1 Production, +1 Gold] from every [Market]",
                     "[+15]% Strength"
                 ],
-                "requires": ["Haven of the Desert"],
+                "requires": ["Prosperous Emirate"],
                 "row": 2
                 "column": 1
             },
