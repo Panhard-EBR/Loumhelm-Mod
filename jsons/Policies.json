@@ -81,6 +81,7 @@
             {
                 "name": "A Thousand Week March!",
                 "uniques": [
+                    "[+1 Movement] <for [all] units> <in [All] tiles>"
                     "All newly-trained [relevant] units [in all cities] receive the [March] promotion"]
             }
         ]
