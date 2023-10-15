@@ -13,7 +13,7 @@
             "[+100]% City-State Influence degradation",
             "Free Social Policy",
             "Provides the cheapest [Production] building in your first [3] cities for free",
-            "[+10]% Strength",
+            "[+20]% Strength",
             "Only available <before adopting [Imperialism and Progress]>",
             "Only available <before adopting [Winds of the Desert]>"
         ],
@@ -21,7 +21,7 @@
             {
                 "name": "Propaganda",
                 "uniques": [
-                    "[+10]% Production when constructing [Military] units [in all cities]",
+                    "[+20]% Production when constructing [Military] units [in all cities]",
                     "[+2 Faith] per [2] population [in all cities]"
                 ],
                 "requires": ["Self-righteousness"]
@@ -32,7 +32,8 @@
                 "name": "Centralized Production",
                 "uniques": [
                     "[+1 Production] [in all cities connected to capital]",
-                    "[+5 Gold] [in capital]"
+                    "[+5 Gold] [in capital]",
+                    "[+2 Gold] [in all cities connected to capital"
                 ],
                 "row": 1,
                 "column": 5
@@ -53,7 +54,7 @@
                 "uniques": [
                     "[+50]% Production when constructing [Military] units [in all cities]",
                     "[-80]% Gold cost of upgrading <for [Military] units>",
-                    "[-35]% Strength"
+                    "[-30]% Strength"
                 ],
                 "requires": ["Centralized Production"],
                 "row": 2,
@@ -72,8 +73,8 @@
             {
                 "name": "Self-righteousness",
                 "uniques": [
-                    "Earn [5]% of killed [Military] unit's [Cost] as [Faith]",
-                    "Earn [10]% of killed [Military] unit's [Cost] as [Culture]"
+                    "Earn [50]% of killed [Military] unit's [Cost] as [Faith]",
+                    "Earn [50]% of killed [Military] unit's [Cost] as [Culture]"
                 ],
                 "row": 1,
                 "column": 1
@@ -81,7 +82,7 @@
             {
                 "name": "Warmonger Complete",
                 "uniques": [
-                    "[+1 Movement] <for [all] units> <in [All] tiles>"
+                    "[+1 Movement] <for [all] units> <in [All] tiles>",
                     "All newly-trained [relevant] units [in all cities] receive the [March] promotion"]
             }
         ]
@@ -118,7 +119,7 @@
             {
                 "name": "United by Blood",
                 "uniques": [
-                    "[+1 Happiness] [in all cities connected to capital]",
+                    "[+2 Happiness] [in all cities connected to capital]",
                     "[+1 Production] from every [Library]",
                     "[+10]% Strength <for [all] units> <when fighting in [Friendly Land] tiles>"
                 ],
@@ -130,7 +131,7 @@
                 "uniques": [
                     "Empire enters a [30]-turn Golden Age",
                     "[+2 Movement] <for [All] units> <during a Golden Age>",
-                    "[+10]% Strength"
+                    "[+5]% Strength"
                 ],
                 "requires": ["United by Blood", "The Right Path"],
                 "row": 3
@@ -139,8 +140,8 @@
             {
                 "name": "Enslave the Wicked",
                 "uniques": [
-                    "When conquering an encampment, earn [50] Gold and recruit a Barbarian unit <with [100]% chance>",
-                    "When defeating a [Military] unit, earn [15] Gold and recruit it"
+                    "When conquering an encampment, earn [100] Gold and recruit a Barbarian unit <with [100]% chance>",
+                    "[+5]% Strength"
                 ],
                 "row": 3
                 "column": 1
@@ -169,6 +170,7 @@
             {
                 "name": "Imperialism and Progress Complete",
                 "uniques": [
+                    "[+15]% Strength <for [Wounded] units>",
                     "All newly-trained [relevant] units [in all cities] receive the [Morale] promotion"]
             }
         ]
@@ -194,7 +196,8 @@
             {
                 "name": "Prosperous Emirate",
                 "uniques": [
-                    "Double quantity of [Gold Ore] produced"
+                    "Double quantity of [Gold] produced"
+                    "[1] Happiness from each type of luxury resource",
                     "[+15]% [Culture] [in capital]",
                     "[+1 Food] from [Desert] tiles [in all cities]",
                 ],
@@ -205,6 +208,7 @@
                 "name": "Rapid Production",
                 "uniques": [
                     "[+35]% Production when constructing [Military] units [in all cities]",
+                    "[+10] HP when healing",
                     "[-10]% Strength"
                 ],
                 "row": 1
