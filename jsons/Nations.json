@@ -72,8 +72,6 @@
 
 "[-3 Happiness] [in all cities]",
 
-"[-20]% [Food] [in all cities]",
-
 "[-25]% [Culture] [in all cities]",
 
 "[-30]% [Production] [in all cities]",
@@ -142,7 +140,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 		"innerColor": [10,125,0],
 		"uniqueName": "It's War Season!"
 		"uniques": [
-"[+15]% Strength <for [All] units>",
+"[+20]% Strength <for [All] units>",
 
 "No defensive terrain penalty"
 
@@ -158,7 +156,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "Adopt [Warmonger]",
 
-"[-15]% growth [in all cities]",
+"[-10]% growth [in all cities]",
 
 "[+100]% Gold cost of upgrading"
 
@@ -243,7 +241,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "Adopt [Winds of the Desert]",
 
-"[-25]% [Food] [in all cities]",
+"[-20]% [Food] [in all cities]",
 
 "[+200]% Gold cost of upgrading",
 
