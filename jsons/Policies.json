@@ -106,6 +106,7 @@
             "[+15]% [Science] [in capital]",
             "Only available <before adopting [Warmonger]>",
             "Only available <before adopting [Winds of the Desert]>"
+            "Only availible <for [Elvin Imperial State]>"
         ],
         "policies": [
             {
@@ -199,7 +200,7 @@
                 "name": "Prosperous Emirate",
                 "uniques": [
                     "Double quantity of [Gold Ore] produced"
-                    "[1] Happiness from each type of luxury resource",
+                    "[+1] Happiness from each type of luxury resource",
                     "[+15]% [Culture] [in capital]",
                     "[+1 Food] from [Desert] tiles [in all cities]",
                 ],
@@ -207,7 +208,7 @@
                 "column": 1
             },
             {
-                "name": "Rapid Production",
+                "name": "Scrap Army",
                 "uniques": [
                     "[+35]% Production when constructing [Military] units [in all cities]",
                     "[+10] HP when healing",
