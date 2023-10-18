@@ -14,8 +14,7 @@
             "Free Social Policy",
             "Provides the cheapest [Production] building in your first [3] cities for free",
             "[+20]% Strength",
-            "Only available <before adopting [Imperialism and Progress]>",
-            "Only available <before adopting [Winds of the Desert]>"
+            "Only available <for [Sentinal Union, 1st Core]>"
         ],
         "policies": [
             {
@@ -104,8 +103,6 @@
             "Free Technology",
             "Provides the cheapest [Food] building in your first [5] cities for free",
             "[+15]% [Science] [in capital]",
-            "Only available <before adopting [Warmonger]>",
-            "Only available <before adopting [Winds of the Desert]>",
             "Only available <for [Elvin Imperial State]>"
         ],
         "policies": [
@@ -192,8 +189,7 @@
             "Provides the cheapest [Culture] building in your first [5] cities for free",
             "[+3 Food] from every [Market]",
             "[+1 Movement] <for [all] units> <in [Desert] tiles>",
-            "Only available <before adopting [Warmonger]>",
-            "Only available <before adopting [Imperialism and Progress]>"
+            "Only available <for [Jirbalimah Emirate]>"
         ],
         "policies": [
             {
