@@ -106,7 +106,7 @@
             "[+15]% [Science] [in capital]",
             "Only available <before adopting [Warmonger]>",
             "Only available <before adopting [Winds of the Desert]>"
-            "Only availible <for [Elvin Imperial State]>"
+            "Only <for [Elvin Imperial State]>"
         ],
         "policies": [
             {
@@ -235,7 +235,7 @@
                     "[+1 Sight] <for [all] units> <in [All] tiles>"
 //this was meant to have extra sight and movement///
                 ],
-                "requires": ["Rapid Production"]
+                "requires": ["Scrap Army"]
                 "row": 2
                 "column": 5
             },
