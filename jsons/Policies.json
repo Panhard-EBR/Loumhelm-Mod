@@ -105,8 +105,8 @@
             "Provides the cheapest [Food] building in your first [5] cities for free",
             "[+15]% [Science] [in capital]",
             "Only available <before adopting [Warmonger]>",
-            "Only available <before adopting [Winds of the Desert]>"
-            "Only <for [Elvin Imperial State]>"
+            "Only available <before adopting [Winds of the Desert]>",
+            "Only available <for [Elvin Imperial State]>"
         ],
         "policies": [
             {
