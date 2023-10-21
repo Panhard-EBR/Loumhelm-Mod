@@ -4,9 +4,9 @@
         "era": "Classical era",
         "priorities": {
             "Neutral": 0,
-            "Cultural": 0,
+            "Cultural": 10,
             "Diplomatic": 0,
-            "Domination": 0,
+            "Domination": 100,
             "Scientific": 0
         },
         "uniques": [
@@ -95,8 +95,8 @@
             "Neutral": 0,
             "Cultural": 0,
             "Diplomatic": 0,
-            "Domination": 0,
-            "Scientific": 0
+            "Domination": 30,
+            "Scientific": 75
         },
         "uniques": [
             "Gifts of Gold to City-States generate [-25]% more Influence",
@@ -180,7 +180,7 @@
         "era": "Classical era",
         "priorities": {
             "Neutral": 0,
-            "Cultural": 0,
+            "Cultural": 45,
             "Diplomatic": 0,
             "Domination": 0,
             "Scientific": 0
@@ -229,7 +229,6 @@
                     "[-100]% maintenance costs <for [all] units>",
                     "[+1 Movement] <for [all] units> <in [All] tiles>",
                     "[+1 Sight] <for [all] units> <in [All] tiles>"
-//this was meant to have extra sight and movement///
                 ],
                 "requires": ["Scrap Army"]
                 "row": 2
@@ -251,8 +250,8 @@
             {
                 "name": "Defensive Maneuvers",
                 "uniques": [
-                    "All newly-trained [relevant] units [in all cities] receive the [Cover I] promotion",
-                    "All newly-trained [relevant] units [in all cities] receive the [Cover II] promotion"
+                    "[+20]% Strength <when defending>",
+                    "All newly-trained [relevant] units [in all cities] receive the [Cover I] promotion"
                 ],
                 "requires": ["Self-sufficient Army"],
                 "row": 3
@@ -263,6 +262,101 @@
                 "uniques": [
                     "[-100]% maintenance on road & railroads",
                     "Improves movement speed on roads"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Prepare for Anything",
+        "era": "Classical era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 75,
+            "Domination": 0,
+            "Scientific": 0
+        },
+        "uniques": [
+            "Notified of new Barbarian encampments",
+            "Free Social Policy",
+            "Gain a free [Castle] [in all cities] <after discovering [Chivalry]>",
+            "[+3 Production, +2 Happiness] from every [Castle]",
+            "Only available <for [Sentinal Union, 4th Core]>"
+        ],
+        "policies": [
+            {
+                "name": "The First Steps",
+                "uniques": [
+                    "Double quantity of [Iron] produced"
+                    "[+10]% Strength <when defending>",
+                    "[+10]% Strength for cities"
+                ],
+                "row": 1
+                "column": 1
+            },
+            {
+                "name": "Forced Survival",
+                "uniques": [
+                    "All newly-trained [relevant] units [in all cities] receive the [March] promotion",
+                    "[+10] HP when healing",
+                    "[+3 Food] [in all cities]",
+                    "[-20]% Strength"
+                ],
+                "requires": ["The First Steps"]
+                "row": 2
+                "column": 2
+            },
+            {
+                "name": "A Proper Defense",
+                "uniques": [
+                    "[+15]% Strength <when defending>",
+                    "[+15]% Strength for cities",
+                    "[+50]% maintenance costs for buildings [in all cities]"
+                ],
+                "requires": ["The First Steps"],
+                "row": 1
+                "column": 5
+            },
+            {
+                "name": "Army of the Peaks",
+                "uniques": [
+                    "[+15]% Strength <when fighting in [Rough terrain] tiles>",
+                    "[+1 Movement] <for [all] units> <in [Hill] tiles>",
+                    "[+2 Sight] <for [all] units> <in [Hill] tiles>"
+                ],
+                "requires": ["Forced Survival"]
+                "row": 3
+                "column": 1
+            },
+            {
+                "name": "A Home Worth Fighting For",
+                "uniques": [
+                    "[-30]% Culture cost of natural border growth [in all cities]",
+                    "[+3] Happiness <in cities with a [Castle]>",
+                    "[+15]% Strength <while the empire is happy>"
+                ],
+                "requires": ["A Proper Defense"]
+                "row": 2
+                "column": 4
+            },
+            {
+                "name": "Stalwart Army",
+                "uniques": [
+                    "[+1 Movement] <for [all] units> <in [Hill] tiles>",
+                    "[+10]% Strength <when defending>",
+                    "All newly-trained [relevant] units [in all cities] receive the [Cover I] promotion",
+                    "All newly-trained [relevant] units [in all cities] receive the [Armor Plating I] promotion"
+                ],
+                "requires": ["Army of the Peaks"],
+                "row": 3
+                "column": 3
+            },
+            {
+                "name": "Prepare for Anything Complete",
+                "uniques": [
+                    "All healing effects are doubled",
+                    "Enemy [Military] units must spend [2] extra movement points when inside your territory",
+                    "[+3] Sight"
                 ]
             }
         ]

@@ -62,6 +62,10 @@
 
 "[+20]% [Gold] [in all cities]",
 
+"[-50]% Happiness from [Population] <in [all] non-occupied cities>",
+
+"[-50]% unhappiness from the number of cities",
+
 "Gain a free [Library] [in all cities]",
 
 "Gain a free [University] [in capital]",
@@ -74,15 +78,15 @@
 
 "[-25]% [Culture] [in all cities]",
 
-"[-30]% [Production] [in all cities]",
+"[-20]% [Production] [in all cities]",
 
 "[-50]% Golden Age length"
 ],
 
 
-		"cities": ["Grand Sunlon","Sleictol","Sunlon","Tumberham","Stone Town","Horoland","Dulcter","Whellerlin","Lubland",
+		"cities": ["Grand Sunlon","Sleictol","Sunlon","Tumberham","Lybtol","Horoland","Dulcter","Whellerlin","Lubland",
 			"Flondereth","Hyphliyctorthrow","Dirtwater","Habwyth","Golter Town","Swiftwater","Ardorlin","Crutland","Queensville","Watherway",
-			"Flystol","Erwain Town"]
+			"Flystol","Erwain"]
 	},
 	{
 		"name": "Sentinal Union, 1st Core",
@@ -140,15 +144,21 @@ Although many of its people who live today have mellowed and accepted peace, the
 		"innerColor": [10,125,0],
 		"uniqueName": "It's War Season!"
 		"uniques": [
-"[+20]% Strength <for [All] units>",
+"[+10]% Strength <for [All] units>",
+
+"[+15]% Strength <for [All] units> <when at war>",
 
 "No defensive terrain penalty"
 
-"[+100]% XP gained from combat",
+"[+75]% XP gained from combat",
+
+"[+50]% XP gained from combat <when at war>",
 
 "[+30]% [Production] [in all cities]",
 
 "[+2 Happiness] [in all cities]",
+
+"[+5 Happiness] [in all cities] <when at war>",
 
 "Units in cities cost no Maintenance",
 
@@ -156,7 +166,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "Adopt [Warmonger]",
 
-"[-10]% growth [in all cities]",
+"[-20]% growth [in all cities]",
 
 "[+100]% Gold cost of upgrading"
 
@@ -164,7 +174,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "[-40]% Strength for cities",
 
-"[+100]% maintenance cost for buildings [in all cities]"
+"[+200]% maintenance cost for buildings [in all cities]"
 ],
 
 
@@ -176,7 +186,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 		"name": "Jirbalimah Emirate",
 		"leaderName": "Lomleol Daphet the 3rd",
 		"adjective": ["Jirimite"],
-		"startBias": ["Desert", "Avoid [Grassland]", "Avoid [Tundra]"],
+		"startBias": ["Desert", "Avoid [Forest]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Jirbalimah Emirate: A Breeze in a Windless Desert",
@@ -207,7 +217,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 		"hateHello": "What now? You are wasting my time.",
 
-		"hateLetsHearIt": ["This better be worthwhile .",
+		"hateLetsHearIt": ["This better be worthwhile.",
 "You stand at bladepoint.",
 "Sure, just watch your back."],
 
@@ -254,5 +264,99 @@ Although many of its people who live today have mellowed and accepted peace, the
 		"cities": ["Histazzel","Destazopoli","Arlmoni","Hyloct","Mezzazzan","Fersa","Taars","Benadopoli","Agatil",
 			"Yozul","Rhiydahk","Dolmus", "Gasacnosa","Midar","Sharshesk","Orniz","Sultor","Fiozzy","Girhano",
 			"Zohyin","Yitman"]
+	},
+	{
+		"name": "Sentinal Union, 4th Core",
+		"leaderName": "Craig Caston",
+		"adjective": ["Senta"],
+		"startBias": ["Mountain", "Hill", "Avoid [Desert]"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "The Senta 4th Core: A Drop of Reason in an Ocean of Insanity",
+		"startIntroPart2": "The 4th Core was made to be responsible for the defense of the Sentinal homeland, but even they couldn't ingore the call to war, while not as aggressive as their 1st Core brethren, their stalwart defense will break an attacker's weapons and leave its wielder open.",
+		
+		"declaringWar": "Hey man, it ain't my fault or yours, I just gotta do what I've been told by my superiors.",
+		"attacked": "It was expected, it was you or me, so I don't blame you.",
+		"defeated": "That-.... hmm.... Well uhh...... that could've gone a lot better......",
+		"introduction": "Hey there, I'm Craig Caston, but just call me Craig. We're just here to make friends, alright?",
+		
+		"neutralHello": "What's good?",
+
+
+		"neutralLetsHearIt": ["Well as they say the: ''pen is mightier than the sword'', right...?",
+"Nice to have people like you around.",
+"Sure, we can chat."],
+
+		"neutralNo": ["No.",
+"How about ''no''?",
+"After a long debate with my superiors... no."],
+
+
+		"neutralYes": ["That's nice!",
+"I really can't say ''no'', can I?",
+"That's an amazing deal!"],
+
+
+
+		"hateHello": "Hmm...?",
+
+		"hateLetsHearIt": ["I'm all ears.",
+"I have spare time.",
+"You can speak, but will I listen?"],
+
+		"hateNo": ["Get out.",
+"In another universe, I still would have said no.",
+"Nah."],
+
+		"hateYes": ["Okay, great",
+"I hope this leads to us being friends.",
+"Hmm... sure!"],
+
+		
+		"afterPeace": "I'm just glad it's over, but that bastard Jehonas would've been livid. HAHAHA!",
+		"tradeRequest": "You up for a deal?",
+
+		"outerColor": [255,255,255],
+		"innerColor": [10, 125, 0],
+		"uniqueName": "In Defense of the Homeland"
+		"uniques": [
+"[+20]% Strength <when fighting in [Rough terrain] tiles>",
+
+"[+2 Culture, +2 Production] from [Hill] tiles [in all cities]",
+
+"[+4 Culture, +4 Production] from [Mountain] tiles [in all cities]",
+
+"[+20]% [Production] [in all cities]",
+
+"[+30]% Strength <when defending>",
+
+"[+20]% Strength for cities",
+
+"No defensive terrain penalty",
+
+"Gain a free [Walls] [in all cities]",
+
+"[+1 Production, +2 Happiness] from every [Walls]",
+
+"Adopt [Prepare for Anything]",
+
+"[-15]% Strength <for [all] units>",
+
+"[-20]% Strength <when fighting in [Open terrain] tiles>",
+
+"[+20]% Strength decreasing with distance from capital",
+
+"[+15]% Culture cost of adopting new Policies",
+
+"[+25]% tile improvement construction time",
+
+"[+100]% maintenance cost for buildings [in all cities]"
+]
+
+
+		"cities": ["Harrinstown MC","Nassemnuschets","Hugo Fort","Zayf Gerner","Crayson","Alders","Tonner Town","Usellies","Katroit",
+			"Hakhakerton","Sloggerbat","Oldwater", "Toast Creek","Wagetown","Dunce","Brodrich","Simmer Town","Houggurt","Red Town",
+			"West Chlige","Hallburg"]
 	}
 ]
+
