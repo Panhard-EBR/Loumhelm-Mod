@@ -1,5 +1,5 @@
-# Loumhelm: Empire's Imitator (Unfinished)
-*THIS MOD IS NOT IN A PROPER PLAYABLE STATE*
+# Loumhelm: Stalwart Steel (UPDATE)
+*THIS MOD DOES NOT HAVE SPRITES YET*
 
 
 This is my very first mod for this game.
@@ -10,12 +10,16 @@ And now here we are.
 
 Anyways, I plan to add:
 
-about 8+ nations\factions. (subject to change)
+about 10+ nations\factions. (subject to change)
 Each of them will have a great upside, but also a downside to balance things out.
 
-+E.G. The Elvin Imperial State having more unit strength, science production and gold, but has attributes that weaken the expansion and growth of cities and reduced happiness for every city.
++E.G. The Elvin Imperial State having more unit strength, science production and gold, but has attributes that weaken the expansion and growth of cities and less base happiness for every city.
 
-Or the 1st Core having more production, faster experience gain, ignore terrain defense and good base happiness, but they grow slightly slower, have no terrain defense and most things are a little more expensive.
+Or the 1st Core having more production, faster experience gain, ignore terrain defense and good base happiness, but they grow slightly slower, degrade relations with city states way faster and most things are a little more expensive.
+
+Each nation will also have a unique policy tree that is exclusive to them.
+
+
 
 *There is one thing I need to make clear*:      I'm not an expert at this game, if a faction is too weak or strong, I will tweak them based on my current knowledge, but I would also like suggestions from anyone more knowledgeable.
 
